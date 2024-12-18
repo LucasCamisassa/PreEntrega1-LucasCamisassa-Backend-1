@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "name": "pre-entrega-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
